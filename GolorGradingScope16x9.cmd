@@ -1,4 +1,4 @@
-echo off & cls
+echo off & cls 
 title=OBS Grading Scopes (Virtual Camera)
 set /a cpuT=%NUMBER_OF_PROCESSORS%-1
 goto :instruction
